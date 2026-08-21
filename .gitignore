@@ -1,0 +1,11 @@
+# Pastas de configuração da IDE
+.idea/
+*.iml
+
+# Arquivos de build
+out/
+build/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
