@@ -23,4 +23,5 @@ public class Bee1006 {
 
         scanner.close();
     }
+    
 }
